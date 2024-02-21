@@ -3,6 +3,6 @@ Aquí una muestra de lo que guarda;
 
 ![](https://github.com/davidruizduarte/MexicosTerritorialLost/blob/main/sin%20texas.png
 )
-
+![](https://github.com/davidruizduarte/MexicosTerritorialLostGlobal/blob/main/GRADIO.png)
 
 
